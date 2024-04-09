@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"timer_trigger",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"timer_trigger",
+  "parent":{
+    "name":"Timer",
+    "path":"folders/Scripts/general/Timer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

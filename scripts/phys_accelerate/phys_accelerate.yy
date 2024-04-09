@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"phys_accelerate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"phys_accelerate",
+  "parent":{
+    "name":"phys",
+    "path":"folders/Scripts/object/phys.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_gravity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_gravity",
+  "parent":{
+    "name":"statsAndDebug",
+    "path":"folders/Scripts/statsAndDebug.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

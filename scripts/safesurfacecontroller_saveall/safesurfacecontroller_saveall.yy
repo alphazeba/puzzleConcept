@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"safeSurfaceController_saveAll",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"safeSurfaceController_saveAll",
+  "parent":{
+    "name":"controller",
+    "path":"folders/Scripts/SafeSurface/controller.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

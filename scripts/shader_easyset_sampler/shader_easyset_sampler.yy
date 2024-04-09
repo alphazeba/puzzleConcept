@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"shader_easySet_sampler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"shader_easySet_sampler",
+  "parent":{
+    "name":"helperFunctions",
+    "path":"folders/Scripts/general/shader/helperFunctions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"safeSurfaceController_unloadAll",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"safeSurfaceController_unloadAll",
+  "parent":{
+    "name":"controller",
+    "path":"folders/Scripts/SafeSurface/controller.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

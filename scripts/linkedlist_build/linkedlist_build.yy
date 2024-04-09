@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"linkedlist_build",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"linkedlist_build",
+  "parent":{
+    "name":"general",
+    "path":"folders/Scripts/general.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

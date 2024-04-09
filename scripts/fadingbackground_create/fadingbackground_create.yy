@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"fadingbackground_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fadingbackground_create",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

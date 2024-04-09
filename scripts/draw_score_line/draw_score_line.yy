@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_score_line",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_score_line",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/general/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

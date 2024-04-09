@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"isDebugMode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"isDebugMode",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/general/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

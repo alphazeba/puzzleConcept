@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"TimeInFramesToString",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TimeInFramesToString",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/general/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"shader_set_pxlCounter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"shader_set_pxlCounter",
+  "parent":{
+    "name":"shader",
+    "path":"folders/Scripts/general/shader.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

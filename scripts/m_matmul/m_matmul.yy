@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"m_matmul",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"m_matmul",
+  "parent":{
+    "name":"vector",
+    "path":"folders/Scripts/general/vector.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

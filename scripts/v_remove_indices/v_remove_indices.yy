@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"v_remove_indices",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"v_remove_indices",
+  "parent":{
+    "name":"vector",
+    "path":"folders/Scripts/general/vector.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

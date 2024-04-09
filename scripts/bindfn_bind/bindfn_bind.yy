@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"bindfn_bind",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bindfn_bind",
+  "parent":{
+    "name":"bindfn",
+    "path":"folders/Scripts/general/bindfn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"s_floor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"s_floor",
+  "parent":{
+    "name":"scriptVersionOfFunctions",
+    "path":"folders/Scripts/general/vector/scriptVersionOfFunctions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

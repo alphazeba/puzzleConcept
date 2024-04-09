@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"commparticle_build",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"commparticle_build",
+  "parent":{
+    "name":"particles",
+    "path":"folders/Scripts/object/particles.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

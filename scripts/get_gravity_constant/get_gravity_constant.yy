@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"get_gravity_constant",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_gravity_constant",
+  "parent":{
+    "name":"gravityBody",
+    "path":"folders/Scripts/object/gravityBody.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

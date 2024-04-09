@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"wormhole_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"wormhole_create",
+  "parent":{
+    "name":"wormhole",
+    "path":"folders/Scripts/object/wormhole.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

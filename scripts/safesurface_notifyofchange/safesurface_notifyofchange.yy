@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"safeSurface_notifyOfChange",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"safeSurface_notifyOfChange",
+  "parent":{
+    "name":"SafeSurface",
+    "path":"folders/Scripts/SafeSurface.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

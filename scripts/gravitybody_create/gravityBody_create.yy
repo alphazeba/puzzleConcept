@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"gravityBody_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gravityBody_create",
+  "parent":{
+    "name":"gravityBody",
+    "path":"folders/Scripts/object/gravityBody.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

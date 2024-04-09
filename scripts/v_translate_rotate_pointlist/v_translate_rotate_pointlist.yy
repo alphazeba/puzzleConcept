@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"v_translate_rotate_pointlist",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"v_translate_rotate_pointlist",
+  "parent":{
+    "name":"vector",
+    "path":"folders/Scripts/general/vector.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

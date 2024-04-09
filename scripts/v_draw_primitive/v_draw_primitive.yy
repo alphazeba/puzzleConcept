@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"v_draw_primitive",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"v_draw_primitive",
+  "parent":{
+    "name":"vector",
+    "path":"folders/Scripts/general/vector.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

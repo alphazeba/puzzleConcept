@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"phys_step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"phys_step",
+  "parent":{
+    "name":"hooks",
+    "path":"folders/Scripts/object/phys/hooks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"check_collision_with_gravity_body",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"check_collision_with_gravity_body",
+  "parent":{
+    "name":"object",
+    "path":"folders/Scripts/object.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

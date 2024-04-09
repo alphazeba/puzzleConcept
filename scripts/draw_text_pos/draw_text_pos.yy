@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_text_pos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_text_pos",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/general/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

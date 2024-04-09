@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Singleton",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Singleton",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/general/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"generate_guid",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"generate_guid",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/general/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

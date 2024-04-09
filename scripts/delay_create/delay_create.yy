@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"delay_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"delay_create",
+  "parent":{
+    "name":"Timer",
+    "path":"folders/Scripts/general/Timer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

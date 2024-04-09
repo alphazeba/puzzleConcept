@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"comm_manager_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"comm_manager_create",
+  "parent":{
+    "name":"antenna",
+    "path":"folders/Scripts/object/antenna.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

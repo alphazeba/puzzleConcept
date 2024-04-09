@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ScreenShake",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScreenShake",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/general/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

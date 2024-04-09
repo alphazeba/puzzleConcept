@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"HoldToSkipHandler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"HoldToSkipHandler",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/general/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"v_perpendicular",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"v_perpendicular",
+  "parent":{
+    "name":"vector",
+    "path":"folders/Scripts/general/vector.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"safeSurface_clean",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"safeSurface_clean",
+  "parent":{
+    "name":"private",
+    "path":"folders/Scripts/SafeSurface/private.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"level1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"level1",
+  "parent":{
+    "name":"levelSpawners",
+    "path":"folders/Scripts/levelSpawners.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"rocket_reset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rocket_reset",
+  "parent":{
+    "name":"rocket",
+    "path":"folders/Scripts/object/rocket.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

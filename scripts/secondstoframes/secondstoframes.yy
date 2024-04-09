@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"SecondsToFrames",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SecondsToFrames",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/general/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

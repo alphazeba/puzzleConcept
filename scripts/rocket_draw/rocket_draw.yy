@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"rocket_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rocket_draw",
+  "parent":{
+    "name":"rocket",
+    "path":"folders/Scripts/object/rocket.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

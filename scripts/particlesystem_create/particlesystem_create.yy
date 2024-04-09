@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"particlesystem_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"particlesystem_create",
+  "parent":{
+    "name":"particles",
+    "path":"folders/Scripts/object/particles.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

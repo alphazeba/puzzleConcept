@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"safeSurfaceController_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"safeSurfaceController_init",
+  "parent":{
+    "name":"hooks",
+    "path":"folders/Scripts/SafeSurface/hooks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"memo_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"memo_create",
+  "parent":{
+    "name":"all",
+    "path":"folders/Scripts/object/all.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

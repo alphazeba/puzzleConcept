@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"buildRocket",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"buildRocket",
+  "parent":{
+    "name":"rocket",
+    "path":"folders/Scripts/object/rocket.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

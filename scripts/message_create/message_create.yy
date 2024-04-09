@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"message_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"message_create",
+  "parent":{
+    "name":"antenna",
+    "path":"folders/Scripts/object/antenna.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
